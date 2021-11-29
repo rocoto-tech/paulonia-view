@@ -1,2 +1,0 @@
-# paulonia-view
-Pauloni.dev
