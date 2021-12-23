@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/en/animacion", {data:[{}],fetch:{},mutations:void 0});
